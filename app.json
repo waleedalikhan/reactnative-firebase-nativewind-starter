@@ -1,20 +1,20 @@
 {
   "expo": {
-    "name": "metrimoon",
-    "slug": "metrimoon",
+    "name": "example",
+    "slug": "example",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "metrimoon",
+    "scheme": "example",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.softsons.metrimoon",
+      "bundleIdentifier": "com.company.example",
       "googleServicesFile": "./google-services/GoogleService-Info.plist"
     },
     "android": {
-      "package": "com.softsons.metrimoon",
+      "package": "com.company.example",
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/images/android-icon-foreground.png",
